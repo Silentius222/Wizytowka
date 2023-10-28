@@ -368,7 +368,7 @@ textarea {
         max-width: 768px;
     }
     
-    .portfolio-wrapper .portfolio-item .skills-wrapper .skills-item {
+    .portfolio-wrapper .portfolio-item  {
         flex-basis: 50%;
     }
 }
@@ -378,7 +378,7 @@ textarea {
         max-width: 95%;
     }
 
-    .portfolio-wrapper .portfolio-item .skills-wrapper .skills-item {
+    .portfolio-wrapper .portfolio-item  {
         flex-basis: 100%;
     }
 }
